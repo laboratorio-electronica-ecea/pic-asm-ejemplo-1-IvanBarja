@@ -1,6 +1,6 @@
 ;*******************************************************************************
 ;    Nombre del archivo - main.asm                                             *
-;    Autor:                                                                    *
+;    Autor: Ivan Barja                                                                   *
 ;    Descripción:                                                              *
 ;        Este es un programa ejemplo que define los bits de configuración y    *
 ;        utiliza variables.                                                    *
